@@ -1,7 +1,7 @@
 {
   "name": "aresenyalius",
   "version": "0.0.1",
-  "description": "Ares Enyalius.es: Historia, Cronología y Mapas",
+  "description": "AresEnyalius.es: Historia, Cronología y Mapas",
   "engines": {
     "node": "5.9.1"
   },
